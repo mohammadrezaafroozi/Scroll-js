@@ -2,6 +2,11 @@
 
 
 [online demo](https://mohammadrezaafroozi.github.io/Scroll-js/)
+<img width="1600" height="900" alt="Screenshot (117)" src="https://github.com/user-attachments/assets/66d23062-c60a-4777-83a5-2ebc26ba4e2b" />
+<img width="1600" height="900" alt="Screenshot (118)" src="https://github.com/user-attachments/assets/85e28fb6-146c-447b-a383-0f871dd8a41a" />
+
+
+
 
 - Developed by MohammadReza Afroozi
 - Created - 2025
