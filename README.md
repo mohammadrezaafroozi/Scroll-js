@@ -1,7 +1,7 @@
 # scroll-js
 
 
-[online demo](https://mohammadrezaafroozi.github.io/first--scroll-js/)
+[online demo](https://mohammadrezaafroozi.github.io/Scroll-js/)
 
 - Developed by MohammadReza Afroozi
 - Created - 2025
